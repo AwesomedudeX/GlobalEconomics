@@ -1,5 +1,3 @@
-# Finish agreement and CEG
-
 import streamlit as st
 
 st.set_page_config(page_title="Global Economics Explained", page_icon="icon.jpg", layout="wide")
